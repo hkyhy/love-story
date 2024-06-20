@@ -5,11 +5,11 @@ name: Node.js Package
 
 on:
   pull_request:
-    branches: [master]
+    branches: [master, release]
     types:
       - closed
 jobs:
-  build-npm:
+  publish-npm:
     if: github.event.pull_request.merged == true
     runs-on: ubuntu-latest
     steps:
