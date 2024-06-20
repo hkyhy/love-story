@@ -6,7 +6,6 @@ import style from './style.module.scss';
 import Navigation from '../components/Navigation';
 
 const Layout = () => {
-  console.log('Layout---------');
   return (
     <ConfigProvider
       theme={{
