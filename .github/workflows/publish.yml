@@ -33,6 +33,5 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           package_name: 'love-story'
-          public_url: '/love-story'
-          PUBLIC_URL: '/love-story'
+#          PUBLIC_URL: '/love-story'
           publish_dir: ./build
