@@ -11,7 +11,7 @@ console.log('process.env==================', process.env);
 window.processEnv = process.env;
 
 root.render(
-  <BrowserRouter>
+  <BrowserRouter basename={process.env.PUBLIC_URL}>
     <App />
   </BrowserRouter>
 );
