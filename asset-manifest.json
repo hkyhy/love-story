@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/static/js/main.0ebe6ff7.js",
-    "static/css/619.f7b6b2f1.chunk.css": "/static/css/619.f7b6b2f1.chunk.css",
-    "static/js/619.d63eb3d7.chunk.js": "/static/js/619.d63eb3d7.chunk.js",
-    "static/js/807.15fbbadb.chunk.js": "/static/js/807.15fbbadb.chunk.js",
-    "static/js/182.c2e0d3cd.chunk.js": "/static/js/182.c2e0d3cd.chunk.js",
-    "static/js/845.9ee67f01.chunk.js": "/static/js/845.9ee67f01.chunk.js",
-    "static/js/867.915184d3.chunk.js": "/static/js/867.915184d3.chunk.js",
-    "index.html": "/index.html",
-    "main.0ebe6ff7.js.map": "/static/js/main.0ebe6ff7.js.map",
-    "619.f7b6b2f1.chunk.css.map": "/static/css/619.f7b6b2f1.chunk.css.map",
-    "619.d63eb3d7.chunk.js.map": "/static/js/619.d63eb3d7.chunk.js.map",
-    "807.15fbbadb.chunk.js.map": "/static/js/807.15fbbadb.chunk.js.map",
-    "182.c2e0d3cd.chunk.js.map": "/static/js/182.c2e0d3cd.chunk.js.map",
-    "845.9ee67f01.chunk.js.map": "/static/js/845.9ee67f01.chunk.js.map",
-    "867.915184d3.chunk.js.map": "/static/js/867.915184d3.chunk.js.map"
+    "main.js": "/love-story/static/js/main.c143db2e.js",
+    "static/css/619.f7b6b2f1.chunk.css": "/love-story/static/css/619.f7b6b2f1.chunk.css",
+    "static/js/619.2b8efba4.chunk.js": "/love-story/static/js/619.2b8efba4.chunk.js",
+    "static/js/807.15fbbadb.chunk.js": "/love-story/static/js/807.15fbbadb.chunk.js",
+    "static/js/182.c2e0d3cd.chunk.js": "/love-story/static/js/182.c2e0d3cd.chunk.js",
+    "static/js/845.9ee67f01.chunk.js": "/love-story/static/js/845.9ee67f01.chunk.js",
+    "static/js/867.915184d3.chunk.js": "/love-story/static/js/867.915184d3.chunk.js",
+    "index.html": "/love-story/index.html",
+    "main.c143db2e.js.map": "/love-story/static/js/main.c143db2e.js.map",
+    "619.f7b6b2f1.chunk.css.map": "/love-story/static/css/619.f7b6b2f1.chunk.css.map",
+    "619.2b8efba4.chunk.js.map": "/love-story/static/js/619.2b8efba4.chunk.js.map",
+    "807.15fbbadb.chunk.js.map": "/love-story/static/js/807.15fbbadb.chunk.js.map",
+    "182.c2e0d3cd.chunk.js.map": "/love-story/static/js/182.c2e0d3cd.chunk.js.map",
+    "845.9ee67f01.chunk.js.map": "/love-story/static/js/845.9ee67f01.chunk.js.map",
+    "867.915184d3.chunk.js.map": "/love-story/static/js/867.915184d3.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.0ebe6ff7.js"
+    "static/js/main.c143db2e.js"
   ]
 }
