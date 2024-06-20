@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/807.15fbbadb.chunk.js","mappings":"2JAEA,MAMA,EANaA,KAETC,EAAAA,EAAAA,KAAA,OAAAC,SAAK,Q","sources":["pages/Home/index.js"],"sourcesContent":["import React from 'react';\n\nconst Home = () => {\n  return (\n    <div>Home</div>\n  )\n};\n\nexport default Home;\n"],"names":["Home","_jsx","children"],"sourceRoot":""}
