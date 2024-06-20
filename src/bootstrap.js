@@ -9,7 +9,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 
 console.log('process.env==================', process.env);
 root.render(
-  <BrowserRouter>
+  <BrowserRouter basename={process.env.REACT_APP_URI}>
     <App />
   </BrowserRouter>
 );
