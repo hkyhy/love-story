@@ -32,4 +32,6 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          package_name: 'love-story'
+          PUBLIC_URL: '/love-story'
           publish_dir: ./build
