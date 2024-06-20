@@ -8,6 +8,8 @@ import './index.css';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
 console.log('process.env==================', process.env);
+window.processEnv = process.env;
+
 root.render(
   <BrowserRouter basename={process.env.REACT_APP_URI}>
     <App />
