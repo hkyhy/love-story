@@ -1,0 +1,51 @@
+{
+  "id": "3551177",
+  "name": "FAT-系统",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "31054717",
+      "name": "失败",
+      "font_class": "shibai",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "31054718",
+      "name": "成功",
+      "font_class": "chenggong",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "31048907",
+      "name": "账号登录",
+      "font_class": "zhanghaodenglu",
+      "unicode": "e67b",
+      "unicode_decimal": 59003
+    },
+    {
+      "icon_id": "31048871",
+      "name": "二维码登录",
+      "font_class": "erweimadenglu",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    },
+    {
+      "icon_id": "30907673",
+      "name": "环节-淘汰",
+      "font_class": "huanjie-taotai",
+      "unicode": "e678",
+      "unicode_decimal": 59000
+    },
+    {
+      "icon_id": "30907674",
+      "name": "环节-已通过",
+      "font_class": "huanjie-yitongguo",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    }
+  ]
+}
